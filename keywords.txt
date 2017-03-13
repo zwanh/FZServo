@@ -5,10 +5,14 @@
 #######################################
 # Class (KEYWORD1)
 #######################################
-FZServo	KEYWORD1
+FZServo		KEYWORD1
 
 #######################################
 # Methods and Functions (KEYWORD2)
 #######################################
 
-checkSum  KEYWORD2
+ping		KEYWORD2
+read		KEYWORD2
+reset		KEYWORD2
+write		KEYWORD2
+act		KEYWORD2
